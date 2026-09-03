@@ -1,0 +1,29 @@
+ai_handled:
+  recover_password:
+    needs_human: false
+    priority: low
+
+  edit_account:
+    needs_human: false
+    priority: low
+
+  delivery_period:
+    needs_human: false
+    priority: low
+
+human_escalation:
+  cancel_order:
+    needs_human: true
+    priority: medium
+
+  track_refund:
+    needs_human: true
+    priority: medium
+
+  payment_issue:
+    needs_human: true
+    priority: high
+
+  unknown:
+    needs_human: true
+    priority: medium

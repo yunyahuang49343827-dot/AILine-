@@ -1,0 +1,61 @@
+customer_message,expected_intent,expected_route
+I don't know what to do to recover my account key,recover_password,AI
+what do i need to do to restore my account pin,recover_password,AI
+I want assistance retrieving my user access key,recover_password,AI
+how do I retrieve the access key of my user account?,recover_password,AI
+I need to retrieve my PIN,recover_password,AI
+I need assistance retrieving the PIN of my account,recover_password,AI
+find information about my access key retrieval,recover_password,AI
+I don't know what I need to do to restore my PIN,recover_password,AI
+I need to reset my damn PIN code,recover_password,AI
+can you help me recover the key of my profile?,recover_password,AI
+correct information on freeaccount,edit_account,AI
+modify data on standard account,edit_account,AI
+modifying data on {{Account Category}} account,edit_account,AI
+need to modify the user info help me,edit_account,AI
+modifying info on premium account,edit_account,AI
+correcting info on {{Account Type}} aqccount,edit_account,AI
+need to edit my account can ya help me,edit_account,AI
+update {{Account Type}} account,edit_account,AI
+update details on freemium account,edit_account,AI
+update information on {{Account Category}} account,edit_account,AI
+I would like to check how soon can I expect the shipment,delivery_period,AI
+help me check how long it takes for the parcel to arrive,delivery_period,AI
+I  need assistance to see when my article is going to arrive,delivery_period,AI
+i call to check how soon can i expect my bloody item,delivery_period,AI
+I'm trying to check how long the shipping takes,delivery_period,AI
+i dont know how i can see how soon can i expect my order,delivery_period,AI
+can you show me how soon can I expect my purchase?,delivery_period,AI
+I am looking for the bloody shipping period,delivery_period,AI
+need assistance seeing how soon can i expect my article,delivery_period,AI
+I need assistance checking how soon can I expect my delivery,delivery_period,AI
+I have problems with cancelling purchase {{Order Number}},cancel_order,HUMAN
+need help with canceling purchase {{Order Number}},cancel_order,HUMAN
+I need help with cancelling order {{Order Number}},cancel_order,HUMAN
+assistance to cancel purchased {{Order Number}},cancel_order,HUMAN
+I need helpto cancel order {{Order Number}},cancel_order,HUMAN
+can you help me to cancel purchase {{Order Number}}?,cancel_order,HUMAN
+help me canceling purchase {{Order Number}},cancel_order,HUMAN
+help me to cancel my  last goddamn purchase,cancel_order,HUMAN
+whag do i need to do to cancel order {{Order Number}},cancel_order,HUMAN
+I cannot afford purchase {{Order Number}},cancel_order,HUMAN
+I expect a rebate of {{Currency Symbol}}{{Refund Amount}},track_refund,HUMAN
+I need assistance seeing the restitution status,track_refund,HUMAN
+I'm waiting for a rebate of {{Currency Symbol}}{{Refund Amount}},track_refund,HUMAN
+"I have to see if there is anything new on my refund, help me",track_refund,HUMAN
+what do I need to do to see the compensation current status?,track_refund,HUMAN
+I'm waiting for a refund of {{Refund Amount}} dollrs,track_refund,HUMAN
+how could I track the compensation?,track_refund,HUMAN
+is it possible to see if there are any updates on my refund,track_refund,HUMAN
+I am waiting for a compensation of {{Refund Amount}} dollars,track_refund,HUMAN
+i expect a rebate of {{Currency Symbol}}{{Refund Amount}},track_refund,HUMAN
+I don't know how to inform of issues with online payment,payment_issue,HUMAN
+assistance to inform of a damn payment issue,payment_issue,HUMAN
+need assistance solving a problem with online payment,payment_issue,HUMAN
+report anissue with payment,payment_issue,HUMAN
+payment issues,payment_issue,HUMAN
+my card was declined i wanna inform of troubles with payment,payment_issue,HUMAN
+reporting payment issue,payment_issue,HUMAN
+i want help reporting a payment issue,payment_issue,HUMAN
+what do I need to do to notify of a payment error?,payment_issue,HUMAN
+can you help me reporting problems with online payment?,payment_issue,HUMAN
